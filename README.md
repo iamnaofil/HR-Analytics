@@ -1,7 +1,17 @@
 # HR Data Analytics
                                               HR Data Analytics Project (MeriSkills) 
 
+<table style="width: 100%;">
+  <tr>
+    <td style="width: 50%; text-align: center;"><img src="attrtionbyincome.png" alt="Image 1" style="max-width: 100%;"></td>
+    <td style="width: 50%; text-align: center;"><img src="department.png" alt="Image 2" style="max-width: 100%;"></td>
+    <td style="width: 50%; text-align: center;"><img src="incomedistribution.png" alt="Image 2" style="max-width: 100%;"></td>
+  
+    
+  
 
+  </tr>
+</table
 
 📊 Welcome to my HR Attrition Data Analysis project! In this initiative, I delved into HR data to uncover valuable insights regarding employee attrition. By analyzing patterns, trends, and contributing factors, we aim to formulate actionable strategies to enhance employee retention and engagement.
 
